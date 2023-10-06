@@ -1,0 +1,40 @@
+{
+    "students":[
+        {
+            "name": "Ema Islam",
+            "middlename": null,
+            "age": 32,
+            "cgpa":3.66,
+            "isRegistered": true,
+            "language": ["Bengali", "English"],
+            "friends": [
+                {
+                    "name": "Anar",
+                    "age": 25
+                },
+                {
+                    "name": "Rahul",
+                    "age": "25"
+                }
+            ]
+        },
+        {
+            "name": "Rabiya Islam",
+            "middlename": null,
+            "age": 31,
+            "cgpa":3.55,
+            "isRegistered": false,
+            "language": ["Bengali", "English"],
+            "friends": [
+                {
+                    "name": "Shamir",
+                    "age": 28
+                },
+                {
+                    "name": "Raisa",
+                    "age": 29
+                }
+            ]
+        }
+        ]
+}
