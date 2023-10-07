@@ -1,18 +1,12 @@
-
-
 {
     "friends": [
-
-        {
-            "name": "Saima",
-            "age" : 24
-        },
-        
-        
-        {
-            "name": "Jinjin",
-            "age" : 22
-        }
+      {
+        "name": "Saima",
+        "age": 24
+      },
+      {
+        "name": "Jinjin",
+        "age": 22
+      }
     ]
-
-}
+  }
